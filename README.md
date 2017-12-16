@@ -14,6 +14,10 @@ Aegisub 自动化的 filters and macros
 
 ![round-numbers](https://user-images.githubusercontent.com/12998118/30575323-87642806-9d32-11e7-9003-242829819e33.gif)
 
+### add-hard-line-break.lua
+
+在行首添加硬换行符。[右键另存为这个链接下载](https://raw.githubusercontent.com/mixj93/aegisub-plugins/master/add-hard-line-break.lua)
+
 ## Bug 和建议反馈
 
 可以直接在 github 提 issue，或者邮箱 `mixj93@163.com`、微博 `@mixj93` 联系我。
