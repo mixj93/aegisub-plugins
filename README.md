@@ -14,9 +14,11 @@ Aegisub 自动化的 filters and macros
 
 ![round-numbers](https://user-images.githubusercontent.com/12998118/30575323-87642806-9d32-11e7-9003-242829819e33.gif)
 
-### add-hard-line-break.lua
+### add-special-characters.lua
 
-在行首添加硬换行符。[右键另存为这个链接下载](https://raw.githubusercontent.com/mixj93/aegisub-plugins/master/add-hard-line-break.lua)
+在行首或行尾添加特殊符号（硬换行\N、软换行\n、硬空格\h）。[右键另存为这个链接下载](https://raw.githubusercontent.com/mixj93/aegisub-plugins/master/add-hard-line-break.lua)
+
+![add-special-characters](https://user-images.githubusercontent.com/12998118/34154311-01e454e8-e4f0-11e7-9c05-7e9d63a4b256.jpg)
 
 ## Bug 和建议反馈
 
