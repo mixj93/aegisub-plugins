@@ -6,6 +6,8 @@ Aegisub 自动化的 filters and macros
 
 下载 `.lua` 文件，在 Aegisub 中 自动化 -> 自动化 -> 载入即可
 
+**自动加载脚本：** Windows 可以将 lua 脚本放入 `Aegisub 的安装路径\Aegisub\automation\autoload`， MacOS 可以将 lua 脚本放入 `~/Library/Application Support/Aegisub/automation/autoload/`，每次打开 Aegisub 都会自动加载。
+
 ## 插件列表
 
 ### round-numbers.lua
@@ -22,4 +24,4 @@ Aegisub 自动化的 filters and macros
 
 ## Bug 和建议反馈
 
-可以直接在 github 提 issue，或者邮箱 `mixj93@163.com`、微博 `@mixj93` 联系我。
+可以直接在 github 提 issue，或者邮箱 `mixj93@163.com` 联系我。
