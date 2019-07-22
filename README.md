@@ -6,7 +6,7 @@ Aegisub 自动化的 filters and macros
 
 下载 `.lua` 文件，在 Aegisub 中 自动化 -> 自动化 -> 载入即可
 
-**自动加载脚本：** Windows 可以将 lua 脚本放入 `Aegisub 的安装路径\Aegisub\automation\autoload`， MacOS 可以将 lua 脚本放入 `~/Library/Application Support/Aegisub/automation/autoload/`，每次打开 Aegisub 都会自动加载。
+**自动加载脚本：** Windows 可以将 lua 脚本放入 `Aegisub 的安装路径\Aegisub\automation\autoload`， MacOS 可以将 lua 脚本放入 `~/Library/Application\ Support/Aegisub/automation/autoload/`，每次打开 Aegisub 都会自动加载。
 
 ## 插件列表
 
@@ -21,6 +21,10 @@ Aegisub 自动化的 filters and macros
 在行首或行尾添加特殊符号（硬换行\N、软换行\n、硬空格\h）。[右键另存为下载](https://raw.githubusercontent.com/mixj93/aegisub-plugins/master/add-special-characters.lua)
 
 ![add-special-characters](https://user-images.githubusercontent.com/12998118/34154311-01e454e8-e4f0-11e7-9c05-7e9d63a4b256.jpg)
+
+### fullwidth-to-halfwidth.lua
+
+把全角的字母、数字转为半角字符，符号也转为常见的符号。[右键另存为下载](https://raw.githubusercontent.com/mixj93/aegisub-plugins/master/fullwidth-to-halfwidth.lua)
 
 ## Bug 和建议反馈
 
